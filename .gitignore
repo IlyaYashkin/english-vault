@@ -1,0 +1,13 @@
+# Obsidian workspace state — device-specific
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Plugin code — reinstalled automatically by Obsidian
+.obsidian/plugins/*/main.js
+.obsidian/plugins/*/styles.css
+
+# Claude Code local settings
+.claude/settings.local.json
+
+# macOS
+.DS_Store
