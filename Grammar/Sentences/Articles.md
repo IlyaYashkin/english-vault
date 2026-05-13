@@ -115,6 +115,10 @@ reviewed: false
 | performance       | *a performance\** | *performance / the performance* |
 | time (как ресурс) | *a time*          | *time / enough time*            |
 | news              | *a news*          | *news / the news*               |
+| access            | *an access*       | *access / the access*           |
+| approval          | *an approval*     | *approval / the approval*       |
+| permission        | *a permission*    | *permission / the permission*   |
+| authorization     | *an authorization* | *authorization / the authorization* |
 
 \*исключение: *a performance* = выступление, спектакль (исчисляемое значение)
 
