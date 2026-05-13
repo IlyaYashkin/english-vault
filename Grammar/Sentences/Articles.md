@@ -206,6 +206,41 @@ THE complexity   OF   modern applications
 
 ---
 
+## a whole X — целый период
+
+*a whole* + единица времени или работы → всегда **a**:
+
+| ✅ |
+|---|
+| *I spent **a** whole morning debugging.* |
+| *We lost **a** whole week because of that.* |
+| ***A** whole sprint was wasted on this.* |
+
+---
+
+## Most / Most of the
+
+| Форма | Когда | Пример |
+|---|---|---|
+| *Most* + noun | вообще, без конкретизации | *Most bugs are easy to fix.* |
+| *Most of the* + noun | конкретная группа | *Most of the bugs we found were critical.* |
+| *Most of our/my/their* + noun | наши/мои конкретные | *Most of our deploys went fine.* |
+| ❌ *The most of* | — никогда | — |
+
+---
+
+## Притяжательные местоимения заменяют артикль
+
+*my / our / his / her / their* уже указывают на конкретный объект — артикль не нужен:
+
+| ❌ | ✅ |
+|---|---|
+| *in **the our** architecture* | *in **our** architecture* |
+| *reviewed **the my** PR* | *reviewed **my** PR* |
+| *fixed **the their** bug* | *fixed **their** bug* |
+
+---
+
 ## Быстрая шпаргалка
 
 ```
