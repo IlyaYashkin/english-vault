@@ -187,6 +187,16 @@ THE complexity   OF   modern applications
 - *She's **a** QA engineer.*
 - *He became **a** team lead last year.*
 
+### Среды — как имена собственные
+
+*production*, *staging*, *development* — названия сред, артикль не нужен:
+
+| ❌ | ✅ |
+|---|---|
+| *deploy to **the** production* | *deploy to **—** production* |
+| *bug in **the** staging* | *bug in **—** staging* |
+| *run in **the** development* | *run in **—** development* |
+
 ### API, URL, UI
 
 Начинаются на гласный **звук** — нужен *an*:
