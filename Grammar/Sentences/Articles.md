@@ -275,8 +275,12 @@ THE complexity   OF   modern applications
 - ❌ *Can you check logs?* → ✅ *Can you check **the** logs?*
 - ❌ *I found **the** bug* (первое упоминание, контекст не установлен) → ✅ *I found **a** bug*
 - ❌ *I don't have **a** time* → ✅ *I don't have **—** time*
-- ❌ *a knowledge / an advice / a feedback* → ✅ всегда без *a*
+- ❌ *a knowledge / an advice / a feedback / an approval / an access* → ✅ всегда без *a*
 - ❌ *English I use at work* → ✅ ***The** English I use at work* (уточнение делает конкретным)
+- ❌ *deploy to **the** production* → ✅ *deploy to **—** production* (среда = имя)
+- ❌ *in **the our** system* → ✅ *in **our** system* (притяжательное местоимение уже заменяет артикль)
+- ❌ *The most of our issues* → ✅ *Most of our issues* ("the most of" — не существует)
+- ❌ *I spent whole day* → ✅ *I spent **a** whole day*
 
 ## Связанные темы / See also
 
